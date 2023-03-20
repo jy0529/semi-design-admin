@@ -1,0 +1,29 @@
+{
+  "name": "semi-design-pro",
+  "version": "0.0.1",
+  "description": "semi-design pro",
+  "main": "main.jsx",
+  "scripts": {
+    "dev": "vite --open --mode development",
+    "build": "vite build --mode release",
+    "preview": "vite preview --mode test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@douyinfe/semi-icons": "^2.31.0",
+    "@douyinfe/semi-ui": "^2.31.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.9.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@types/react-router-dom": "^5.3.3",
+    "@vitejs/plugin-react": "^3.1.0",
+    "less": "^4.1.3",
+    "typescript": "^5.0.2",
+    "vite": "^4.2.0"
+  }
+}
